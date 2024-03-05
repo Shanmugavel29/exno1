@@ -21,8 +21,8 @@ STEP 5: Remove outliers using IQR
 STEP 6: Use zscore of to remove outliers
 
 Coding and Output
-# Developed By: MUKKESH R
-# Register Number: 212223240100
+# Developed By: SHANMUGAVEL RM
+# Register Number: 212222230142
 1) Read and display DataFrame
 import pandas as pd
 df=pd.read_csv('/content/SAMPLEDS.csv')
