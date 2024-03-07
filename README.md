@@ -234,5 +234,5 @@ df
 </tr>
 <tr>
   <td width=50%>
-# Result
+# Result:
 The data clearning has beeen done successfully.
